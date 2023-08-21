@@ -3,5 +3,5 @@
 
 part
 
-1. 사용자(USER)에 관한 CRUD 구현
+1. 사용자(USER)에 관한 CRUD 구현   
    ●	회원 탈퇴
